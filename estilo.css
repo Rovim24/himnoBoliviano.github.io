@@ -1,0 +1,13 @@
+h1{ color: #cc2626;}
+h2,h3,h4{color: azure;}
+p{color: #7fff00;}
+#primera {color: rgb(247, 10, 10);}
+#segunda {color: gold;}
+#tercera {color: green}
+body{
+    background-color: black;
+    background-image: url(bolivia-flag-gif.gif) ;
+    background-repeat: no-repeat;
+    background: size 100cqmax 50px;;
+    background-attachment: fixed;
+}
